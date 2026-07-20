@@ -49,8 +49,8 @@ Gosto de entender o problema antes de pensar na solução, e curto participar de
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**🚌 SGTU**](https://github.com/luiscgomes1/sgtu-projeto) | Sistema web fullstack de gestão de transporte universitário, com backend em Node.js/Express e Prisma ORM e frontend em React | React · Node.js/Express · PostgreSQL · Prisma |
-| [**✈️ HostXchange**](https://github.com/luiscgomes1/HostXchange) | Plataforma web fullstack para conectar viajantes e anfitriões, com backend em Node.js e frontend em Angular *(projeto em grupo)* | Angular · Node.js |
-| [**☕ Café**](https://github.com/luiscgomes1/TrabalhoFinalPDMCafe) | Aplicativo mobile em Kotlin para gestão e venda de café — cadastro de produtos, controle de estoque e pedidos | Kotlin |
+| [**✈️ HostXchange**](https://github.com/luiscgomes1/HostXchange) | Plataforma web fullstack para conectar viajantes e anfitriões, com backend em Node.js e frontend em Angular *(projeto em grupo)* | Angular · Node.js · Prisma · MySQL |
+| [**☕ Café**](https://github.com/luiscgomes1/TrabalhoFinalPDMCafe) | Aplicativo mobile em Kotlin para gestão e venda de café — cadastro de produtos, controle de estoque e pedidos | Kotlin · SQLite |
 | [**🌐 Portfólio**](https://github.com/luiscgomes1/portfolio) | Site pessoal em HTML, CSS e JavaScript, reunindo formação, projetos e contato | HTML · CSS · JavaScript |
 
 ---
